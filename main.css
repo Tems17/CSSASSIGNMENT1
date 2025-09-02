@@ -77,11 +77,16 @@ h6 {
 /* header, nav ,a are the selectors */
 header > nav > a{
     /*these are the declaration blocks */
-    align-items: center; /*align-items - property , center- value */
-    justify-content:  end; /*justify-content - property , end- value */
-    width: 100%; /*width - property , 100%- value */
-    height: auto; /*height - property , auto- value */
-    display: flex;  /*display - property , flex- value */
+    align-items: center; /* align-items: center; - declaration 
+    align-items - property , center- value */
+    justify-content:  end; /*justify-content: end; - declaration
+    justify-content - property , end- value */
+    width: 100%; /* width: 100%; - declaration
+    width - property , 100%- value */
+    height: auto; /* height: auto; - declaration
+    height - property , auto- value */
+    display: flex;  /* display: flex; - declaration
+    display - property , flex- value */
 }
 
 #intro p {
@@ -101,3 +106,4 @@ header > nav > a{
     isolation: isolate;
 
 }
+
