@@ -77,7 +77,7 @@ h6 {
 /* header, nav ,a are the selectors */
 header > nav > a{
     /*these are the declaration blocks */
-    align-items: center; /*align-items - property , color- value */
+    align-items: center; /*align-items - property , center- value */
     justify-content:  end; /*justify-content - property , end- value */
     width: 100%; /*width - property , 100%- value */
     height: auto; /*height - property , auto- value */
@@ -99,4 +99,5 @@ header > nav > a{
 #root,
 #__next {
     isolation: isolate;
+
 }
